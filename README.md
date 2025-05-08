@@ -16,7 +16,7 @@ With the Netflix Clone, you can browse a selection of movies and TV shows, view 
 
 ## Credits
 
-This project was created by [PRAJJAL DHAR], a passionate web developer and movie lover.
+This project was created by Yash Grover, a passionate web developer 
 
 ## License
 
